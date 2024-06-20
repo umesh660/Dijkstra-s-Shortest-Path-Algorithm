@@ -21,12 +21,6 @@ This project involves developing a Python program to compute the shortest path w
 - Converting subway network data into a usable format.
 - Overcoming failures in complex nested logic and functions through teamwork.
 
-### Meeting Minutes
-- **Date**: 21/12/2023
-- **Time**: 14:00
-- **Participants**: All members participated online.
-- **Discussion**: Planned collaborative coding and validation tasks, assigning clear roles. Agreed to develop three code versions for cross-verification.
-
 ## Algorithm Summary
 
 ### Testing
